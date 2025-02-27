@@ -1,7 +1,7 @@
 # 🍉 CocoCoin ($COCO) 🍉
 ## *Where Crypto Gets Adorably Profitable* 💰👶
 
-![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2387.png)
+![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png))
 
 > *"In a world of boring finance, be the happy baby dancing with a melon"*
 
