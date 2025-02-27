@@ -190,9 +190,6 @@ Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to th
 ## **DISCLAIMER**
 *This is not financial advice. DYOR. Don't invest what you can't afford to lose. But also... don't miss out on the cutest rocket ship in crypto!*
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png" width="500" alt="Footer Image"/>
-</div>
 
 <div align="center">
   <img src="https://img2.storyblok.com/1440x1920/filters:format(webp):focal(2066x2220:2067x2221)/f/260537/4096x4096/7b8d44c72e/ccm_cgi__grp_jjcy_family_asset05-1.png" width="350" alt="JJ CY Family"/>
@@ -200,7 +197,9 @@ Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to th
 
 ---
 
+
 <div align="center">
-  <img src="https://a.storyblok.com/f/260537/166x150/3ba9de26ba/ccm_mb_lockup_white_27.svg" alt="CoComelon Logo"/>
+  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png" width="500" alt="Footer Image"/>
+</div>
   <p><i>Teaches children to be kind, positive, and resilient.</i></p>
 </div>
