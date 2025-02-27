@@ -1,4 +1,4 @@
-# 🍉 **CocoCoin ($COCO)** 🍉
+# 🍉 **CocoCoin ($COCO)** �
 ## *Where Crypto Gets Adorably Profitable* 💰👶
 
 ![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png)
