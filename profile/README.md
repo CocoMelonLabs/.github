@@ -16,7 +16,7 @@ We're creating the most VIRAL, FAMILY-FRIENDLY crypto ecosystem that makes HODLi
 **WHY SO SERIOUS WHEN CRYPTO CAN BE CUTE?** 🤔
 
 <div align="center">
-  <img src="https://img2.storyblok.com/1440x1440/filters:format(webp):focal(1474x1169:1475x1170)/f/260537/3000x3000/fcefc9f576/ccm_mobile-app_1x1-copy1x1_no-logo.jpg" width="350" alt="CoComelon App"/>
+  <img src='https://www.pngall.com/wp-content/uploads/15/Cocomelon-Rainbow-PNG-Pic.png"" width="350" alt="CoComelon App"/>
 </div>
 
 ---
