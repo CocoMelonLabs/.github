@@ -160,13 +160,12 @@ Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to th
 
 ---
 
-<div align="center">
-
-![Footer Image](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png)
-
 # *CRYPTO FUN FOR EVERYONE!* 🌊🚀
 
 ## DISCLAIMER
 *This is not financial advice. DYOR. Don't invest what you can't afford to lose. But also... don't miss out on the cutest rocket ship in crypto!*
+<div align="center">
+
+![Footer Image](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png)
 
 </div>
