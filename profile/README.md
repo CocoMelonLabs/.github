@@ -1,6 +1,6 @@
 # CocoCoin ($COCO) - The Ultimate Family-Friendly Memecoin
 
-![CocoCoin Logo](.github/profile/cocomelon/IMG_2387.png)  
+![CocoCoin Logo](profile/cocomelon/IMG_2387.png)  
 *Official Coin Logo*
 
 Welcome to the official repository for **CocoCoin ($COCO)** – a fun, engaging, and community-driven memecoin inspired by the beloved Cocomelon brand. Our mission is to deliver “Crypto Fun for Everyone” while providing real-world utility, engaging community experiences, and lasting value.
