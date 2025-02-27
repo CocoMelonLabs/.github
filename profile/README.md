@@ -1,5 +1,8 @@
 # CocoCoin ($COCO) - The Ultimate Family-Friendly Memecoin
 
+![CocoCoin Logo](.github/profile/cocomelon/IMG_2387.png)  
+*Official Coin Logo*
+
 Welcome to the official repository for **CocoCoin ($COCO)** – a fun, engaging, and community-driven memecoin inspired by the beloved Cocomelon brand. Our mission is to deliver “Crypto Fun for Everyone” while providing real-world utility, engaging community experiences, and lasting value.
 
 ---
@@ -14,10 +17,15 @@ Welcome to the official repository for **CocoCoin ($COCO)** – a fun, engaging,
 - [Roadmap](#roadmap)
 - [Get Involved](#get-involved)
 - [Contact](#contact)
+- [Community Gallery](#community-gallery)
+- [Our Team](#our-team)
+- [Join the Movement](#join-the-movement)
+- [Footer](#footer)
 
 ---
 
 ## About CocoCoin
+
 **CocoCoin ($COCO)** is more than just another memecoin—it’s a movement. Inspired by the playful spirit of Cocomelon, our token brings a nostalgic, family-friendly vibe to the crypto world. With a blend of viral marketing, NFT integrations, and strategic partnerships, $COCO is set to be the next big thing in the memecoin space.
 
 **Slogan:** “Crypto Fun for Everyone!”
@@ -25,38 +33,41 @@ Welcome to the official repository for **CocoCoin ($COCO)** – a fun, engaging,
 ---
 
 ## Features
+
 - **NFT Collection:**  
-  Exclusive Cocomelon-themed NFTs with staking rewards.
+  Enjoy exclusive Cocomelon-themed NFTs with staking rewards.
   
 - **Play-to-Earn Games:**  
   Engage with fun, educational games that reward you with $COCO.
   
 - **Merchandise & Discounts:**  
-  Use $COCO for discounts on Cocomelon merchandise and more.
+  Use $COCO to unlock discounts on official merchandise and more.
   
 - **Metaverse & Virtual World:**  
-  Future plans include an interactive, Cocomelon-themed virtual space.
+  Future plans include a Cocomelon-themed interactive virtual space.
   
 - **Charity & Education:**  
-  A portion of every transaction goes towards children’s education programs.
+  A portion of every transaction is donated to children’s education programs.
 
 ---
 
 ## Tokenomics
-- **Total Supply:** 1 Trillion $COCO
+
+- **Total Supply:** 1 Trillion $COCO  
 - **Distribution:**
   - **40%** – Community & Rewards
   - **20%** – Liquidity & DEX Listings
   - **20%** – Partnerships & Ecosystem Growth
   - **10%** – Development & Marketing
   - **10%** – Charity & Donations
-- **Mechanics:**
-  - **Deflationary Mechanism:** Burn function to enhance scarcity.
-  - **Staking Rewards:** Earn passive income by staking $COCO.
+- **Mechanisms:**
+  - **Deflationary Burn:** A burn function to reduce supply over time.
+  - **Staking Rewards:** Earn passive income by staking your $COCO.
 
 ---
 
 ## Development & Smart Contract
+
 We’re collaborating with a trusted blockchain development agency to ensure:
 - **Security:** Fully audited smart contracts.
 - **Multi-chain Compatibility:** Planned support on Ethereum, BSC, Solana, and Polygon.
@@ -65,6 +76,7 @@ We’re collaborating with a trusted blockchain development agency to ensure:
 ---
 
 ## DEX Launch
+
 - **Initial DEX Offering (IDO):**  
   Launching on PancakeSwap & Uniswap.
 - **Liquidity:**  
@@ -75,6 +87,7 @@ We’re collaborating with a trusted blockchain development agency to ensure:
 ---
 
 ## Marketing & Community
+
 Our viral marketing strategy is designed to build and engage a thriving community:
 - **Airdrops & Giveaways:**  
   Early adopter rewards to kickstart engagement.
@@ -90,6 +103,7 @@ Our viral marketing strategy is designed to build and engage a thriving communit
 ---
 
 ## Roadmap
+
 1. **Phase 1 – Community Build-Up:**  
    Massive social media campaigns, airdrops, and meme contests.
 2. **Phase 2 – DEX Listing & Initial Pump:**  
@@ -102,8 +116,9 @@ Our viral marketing strategy is designed to build and engage a thriving communit
 ---
 
 ## Get Involved
+
 Join our vibrant community:
-- [Telegram](#)
+- [Telegram](https://t.me/CocoMelonLabs)
 - [Discord](#)
 - [Twitter](#)
 
@@ -112,7 +127,54 @@ Follow us to stay updated and be a part of the $COCO movement!
 ---
 
 ## Contact
+
 For inquiries or further information, please reach out at [info@cococoin.io](mailto:info@cococoin.io).
+
+---
+
+## Our Team
+
+Meet the passionate team behind CocoCoin:
+
+- **Team Member 1**  
+  ![Team Member 1](.github/profile/cocomelon/IMG_2391.png)
+  
+- **Team Member 2**  
+  ![Team Member 2](.github/profile/cocomelon/IMG_2390.png)
+  
+- **Team Member 3**  
+  ![Team Member 3](.github/profile/cocomelon/IMG_2395.png)
+
+We are a diverse group of blockchain enthusiasts dedicated to making CocoCoin a viral success.
+
+---
+
+## Community Gallery
+
+A glimpse into our journey and community moments:
+
+- ![Gallery Image 1](.github/profile/cocomelon/IMG_2389.png)
+- ![Gallery Image 2](.github/profile/cocomelon/IMG_2393.png)
+- ![Gallery Image 3](.github/profile/cocomelon/IMG_2366.png)
+- ![Gallery Image 4](.github/profile/cocomelon/IMG_2327.png)
+- ![Gallery Image 5](.github/profile/cocomelon/IMG_2392.png)
+
+---
+
+## Join the Movement
+
+Be part of the CocoCoin revolution! Let’s ride the $COCO wave together.
+
+- **Telegram:** [Join our Telegram Channel](https://t.me/CocoMelonLabs)
+- **Discord:** [Join our Discord Server](#)
+- **Twitter:** [Follow us on Twitter](#)
+
+---
+
+## Footer
+
+![Footer Image](.github/profile/cocomelon/IMG_2388.png)  
+*Crypto Fun for Everyone!*  
 
 ---
 
