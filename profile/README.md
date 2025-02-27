@@ -1,4 +1,4 @@
-# 🍉 **CocoCoin ($COCO)** �
+# 🍉 **CocoCoin ($COCO)** 🍉
 ## *Where Crypto Gets Adorably Profitable* 💰👶
 
 ![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png)
@@ -16,7 +16,7 @@ We're creating the most VIRAL, FAMILY-FRIENDLY crypto ecosystem that makes HODLi
 **WHY SO SERIOUS WHEN CRYPTO CAN BE CUTE?** 🤔
 
 <div align="center">
-  <img src='https://www.pngall.com/wp-content/uploads/15/Cocomelon-Rainbow-PNG-Pic.png"" width="350" alt="CoComelon App"/>
+  <img src="https://www.pngall.com/wp-content/uploads/15/Cocomelon-Rainbow-PNG-Pic.png" width="350" alt="CoComelon App"/>
 </div>
 
 ---
@@ -25,13 +25,13 @@ We're creating the most VIRAL, FAMILY-FRIENDLY crypto ecosystem that makes HODLi
 
 ### 1 TRILLION $COCO TOTAL SUPPLY
 
-| ALLOCATION | PERCENTAGE | VIBE CHECK |
-|------------|------------|------------|
-| Community & Rewards | 40% | For the people! 🙌 |
-| Liquidity & DEX | 20% | Swim in the pool! 🏊 |
-| Partnerships | 20% | Friends make money! 👯 |
-| Dev & Marketing | 10% | Build cool stuff! 🛠️ |
-| Charity | 10% | Do good, feel good! ❤️ |
+| ALLOCATION       | PERCENTAGE | VIBE CHECK         |
+|------------------|------------|--------------------|
+| Community & Rewards | 40%       | For the people! 🙌 |
+| Liquidity & DEX  | 20%       | Swim in the pool! 🏊 |
+| Partnerships     | 20%       | Friends make money! 👯 |
+| Dev & Marketing  | 10%       | Build cool stuff! 🛠️ |
+| Charity          | 10%       | Do good, feel good! ❤️ |
 
 ### 🔥 **DEFLATIONARY MECHANICS** 🔥
 Every transaction burns tokens, making your bag more valuable!
@@ -190,16 +190,15 @@ Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to th
 ## **DISCLAIMER**
 *This is not financial advice. DYOR. Don't invest what you can't afford to lose. But also... don't miss out on the cutest rocket ship in crypto!*
 
-
 <div align="center">
   <img src="https://img2.storyblok.com/1440x1920/filters:format(webp):focal(2066x2220:2067x2221)/f/260537/4096x4096/7b8d44c72e/ccm_cgi__grp_jjcy_family_asset05-1.png" width="350" alt="JJ CY Family"/>
 </div>
 
 ---
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png" width="500" alt="Footer Image"/>
 </div>
-  <p><i>Teaches children to be kind, positive, and resilient.</i></p>
-</div>
+<p><i>Teaches children to be kind, positive, and resilient.</i></p>
+
+---
