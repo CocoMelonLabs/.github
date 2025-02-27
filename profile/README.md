@@ -16,10 +16,10 @@ Welcome to the official repository for **CocoCoin ($COCO)** – a fun, engaging,
 - [Marketing & Community](#marketing--community)
 - [Roadmap](#roadmap)
 - [Get Involved](#get-involved)
-- [Contact](#contact)
-- [Community Gallery](#community-gallery)
 - [Our Team](#our-team)
+- [Community Gallery](#community-gallery)
 - [Join the Movement](#join-the-movement)
+- [Contact](#contact)
 - [Footer](#footer)
 
 ---
@@ -126,12 +126,6 @@ Follow us to stay updated and be a part of the $COCO movement!
 
 ---
 
-## Contact
-
-For inquiries or further information, please reach out at [info@cococoin.io](mailto:info@cococoin.io).
-
----
-
 ## Our Team
 
 Meet the passionate team behind CocoCoin:
@@ -171,12 +165,16 @@ Be part of the CocoCoin revolution! Let’s ride the $COCO wave together.
 
 ---
 
+## Contact
+
+For inquiries or further information, please reach out at [info@cococoin.io](mailto:info@cococoin.io).
+
+---
+
 ## Footer
 
 ![Footer Image](.github/profile/cocomelon/IMG_2388.png)  
-*Crypto Fun for Everyone!*  
-
----
+*Crypto Fun for Everyone!*
 
 *We’re ready to launch. Are you ready to ride the $COCO wave?*  
 🌊🚀
