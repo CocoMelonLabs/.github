@@ -87,13 +87,6 @@ Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to th
 
 ---
 
-## 👶 **THE STARS OF THE SHOW** 👶
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2392.png" width="180" alt="Baby Boy"/>
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2393.png" width="180" alt="Baby Girl"/>
-</div>
-
 <div align="center">
   <i>These little buddies are about to take over the crypto world!</i>
 </div>
