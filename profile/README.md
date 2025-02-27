@@ -1,195 +1,213 @@
-Here’s a fully modern, meme-token-themed README.md for **CocoCoin ($COCO)**—amped up with dank vibes, pump.fun energy, and advanced eye-catching flair. It’s coded in Markdown, dripping with emojis, and loaded with direct links to all sources. Let’s make it the goodest way to shill a token, fam! 🚀👶
+# 🍉 **CocoCoin ($COCO)** 🍉
+## *Where Crypto Gets Adorably Profitable* 💰👶
+
+![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png)
+
+> *"In a world of boring finance, be the happy baby dancing with a melon"*
 
 ---
 
-# 🍉 **CocoCoin ($COCO)** 🍉  
-## *The Dankest, Cutest Moonshot in Crypto* 🚀👶  
+## 💎 **WHAT IS COCOCOIN?** 💎
 
-![CocoCoin Logo](https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png)  
+**$COCO** isn't just another memecoin... it's a MOVEMENT!
 
-> *"Wen boring finance? Nah, fam—CocoCoin’s here to yeet you to the moon with baby vibes and melon gains!"*  
+We're creating the most VIRAL, FAMILY-FRIENDLY crypto ecosystem that makes HODLing fun again! With our adorable characters and community-first approach, we're building a coin that your wallet AND your family can smile about.
 
-**$COCO** ain’t your normie memecoin—it’s a **VIBE CHECK** straight from the crib! Inspired by **CoComelon** and turbocharged by the **pump.fun** degens, we’re building a **lit ecosystem** that’s 100% SAFU, 1000% adorable, and 10,000% moon-ready. 🍼💦  
+**WHY SO SERIOUS WHEN CRYPTO CAN BE CUTE?** 🤔
 
----
-
-## 💎 **WTF IS COCOCOIN?** 💎  
-
-Say GM to the **cutest hustle in crypto**! $COCO is the memecoin that slaps harder than your mom’s flip-flop. We’re talking **NFTs**, **P2E games**, **metaverse cribs**, and **merch so drip you’ll flex IRL**. Born from **pump.fun’s chaotic energy**, this token’s got the sauce to make your wallet go *BRRRR*.  
-
-**Why so srs when you can HODL $COCO and vibe?** 😎  
+<div align="center">
+  <img src="https://img2.storyblok.com/1440x1440/filters:format(webp):focal(1474x1169:1475x1170)/f/260537/3000x3000/fcefc9f576/ccm_mobile-app_1x1-copy1x1_no-logo.jpg" width="350" alt="CoComelon App"/>
+</div>
 
 ---
 
-## 🚀 **TOKENOMICS—WEN LAMBO?** 🚀  
+## 🚀 **TOKENOMICS THAT MAKE YOU GO BRRRR** 🚀
 
-### **1 TRILLION $COCO TOTAL SUPPLY**  
-*(Cuz a trillion’s sexier than a billion, duh)*  
+### 1 TRILLION $COCO TOTAL SUPPLY
 
-| **WHERE IT AT**       | **%** | **VIBE CHECK**                  |  
-|-----------------------|-------|---------------------------------|  
-| **Community & Rewards** | 40%   | For the fam—wen moon party? 🙌  |  
-| **Liquidity & DEX**     | 20%   | Deep pools, no shallow vibes 🏊 |  
-| **Partnerships**        | 20%   | Collabs so fire we’re trending 👯 |  
-| **Dev & Shill Squad**   | 10%   | Build it, shill it, stack it 🛠️ |  
-| **Charity**             | 10%   | Good boi deeds—baby hugs ❤️    |  
+| ALLOCATION | PERCENTAGE | VIBE CHECK |
+|------------|------------|------------|
+| Community & Rewards | 40% | For the people! 🙌 |
+| Liquidity & DEX | 20% | Swim in the pool! 🏊 |
+| Partnerships | 20% | Friends make money! 👯 |
+| Dev & Marketing | 10% | Build cool stuff! 🛠️ |
+| Charity | 10% | Do good, feel good! ❤️ |
 
-### 🔥 **BURNS GO BRRRR** 🔥  
-Every trade **torches $COCO**—scarcity’s the name, gains are the game! 📈  
+### 🔥 **DEFLATIONARY MECHANICS** 🔥
+Every transaction burns tokens, making your bag more valuable!
+*Number go up technology* 📈
 
-### 💰 **STAKE IT, RAKE IT** 💰  
-Stake your $COCO, stack more $COCO. Passive income so easy even a toddler could do it. 🌙  
-
----
-
-## 🌈 **COCOCOIN ECOSYSTEM—TOO LIT TO QUIT** 🌈  
-
-### 🖼️ **NFTS SO CUTE YOU’LL CRY**  
-- **Baby Squad NFTs**—rarer than a 4-hour pump on pump.fun  
-- Stake ‘em for **juicy APYs**—ngmi without ‘em  
-- Show off to your crypto bros—**pure flex** 😎  
-
-### 🎮 **PLAY-2-EARN, DEGEN STYLE**  
-- Games so fun you’ll forget to check charts  
-- Earn $COCO while yeeting noobs 🎮  
-- **Pump.fun approved**—casual vibes, massive gains  
-
-### 👕 **MERCH THAT DRIPS**  
-- $COCO tees, hoodies, and socks—wen fit check?  
-- Holder-only drops—sorry, paperhands 👋  
-- IRL cred for the real ones  
-
-### 🏙️ **METAVERSE CRIB**  
-- Build your **digital nursery**—cuz adulting’s overrated  
-- Baby avatars so cute you’ll rug your 9-5  
-- Chill with $COCO degens in VR  
+### 💰 **STAKE & EARN** 💰
+Lock your $COCO, earn more $COCO. It's not rocket science (but we're going to the moon anyway) 🌙
 
 ---
 
-## 🛡️ **SAFU AF—NO RUGS HERE** 🛡️  
+## 🌈 **THE COCOCOIN ECOSYSTEM** 🌈
 
-- ✅ **Audits by Top Chads**—cleaner than a baby’s bib  
-- 🔒 **Liquidity Locked**—12+ months, no funny biz  
-- 🔄 **Multi-Chain Madness**—ETH, BSC, SOL, POLY (wen more?)  
-- 💯 **Team Doxxed to the Moon**—we’re real, anon  
+### 🖼️ **NFT COLLECTION**
+- Limited edition baby-themed digital collectibles
+- Stake NFTs for MASSIVE rewards
+- Flex on your crypto friends with the cutest NFTs in the game
 
----
+### 🎮 **PLAY-2-EARN**
+- Casual games that ANYONE can play
+- Earn $COCO while having fun
+- Perfect for crypto newbies and degens alike
 
-## 📱 **COMMUNITY—JOIN OR FADE** 📱  
+### 👕 **MERCH STORE**
+- Rock that $COCO swag IRL
+- Exclusive designs for holders
+- Be the coolest crypto kid on the block
 
-- **Telegram:** [t.me/CocoMelonLabs](https://t.me/CocoMelonLabs) 💬—dank memes 24/7  
-- **Discord:** [Coming Soon!] 🎮—gm, gamers  
-- **Twitter:** [Coming Soon!] 🐦—alpha leaks, fam  
+### 🏙️ **METAVERSE**
+- Build your virtual nursery
+- Customize your baby avatar
+- Connect with other $COCO enthusiasts
 
-**Pump.fun fam welcome!** This is where the real degens vibe.  
-
----
-
-## 👶 **COCO SQUAD—THE STARS** 👶  
-
-<div style="display: flex; justify-content: center; gap: 20px;">  
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2392.png" width="200" alt="Baby Boy"/>  
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2393.png" width="200" alt="Baby Girl"/>  
-</div>  
-
-*Wen $COCO pumps? 📈* | *Wen you shill to your normie frens? 😏*  
-
-### 🍉 **MELON MADNESS** 🍉  
-<table>  
-  <tr>  
-    <td align="center">  
-      <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2389.png" width="300" alt="Coco in Melon 1"/>  
-      <br/>  
-      <b>Wen 100x?</b>  
-    </td>  
-    <td align="center">  
-      <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png" width="300" alt="Coco in Melon 2"/>  
-      <br/>  
-      <b>Wen staking bags hit?</b>  
-    </td>  
-  </tr>  
-</table>  
+<div align="center">
+  <img src="https://img2.storyblok.com/990x0/smart/filters:format(webp)/f/260537/1124x848/f84f67acaf/cocomelon-footer.png" width="450" alt="CoComelon Footer"/>
+</div>
 
 ---
 
-## 🗺️ **ROADMAP—WEN MOON?** 🗺️  
+## 🛡️ **SUPER SECURE, SUPER SAFU** 🛡️
 
-### 🔮 **PHASE 1: BABY MODE**  
-- Socials drop—**Twitter goes brrrr**  
-- Website launch—**clean af**  
-- Pump.fun vibes—**community pumps it**  
-- Meme wars—$COCO prizes for the dankest  
-- Whitepaper—**read or ngmi**  
-
-### 🚀 **PHASE 2: TODDLER RAGE**  
-- DEXes (PancakeSwap, Uniswap)—**wen trade?**  
-- CoinGecko/CMC—**price go up**  
-- 10k holders—**early gang or bust**  
-- NFT mint—**cop or flop**  
-- Shill szn—**moon incoming**  
-
-### 🏃 **PHASE 3: DEGEN SPRINT**  
-- CEXes—**wen Binance, anon?**  
-- P2E game—**play, earn, flex**  
-- Merch drop—**drip or dip**  
-- 100k holders—**lambo szn**  
-- Influencer pumps—**HODL tight**  
-
-### 🌠 **PHASE 4: MOON OR BUST**  
-- Metaverse—**crib goals**  
-- Mobile app—**trade on the toilet**  
-- Cross-chain—**wen everywhere?**  
-- 1M holders—**mainstream af**  
-- $COCO rules crypto—**wen world domination?**  
+- ✅ Full smart contract audit (so you can sleep like a baby)
+- 🔒 Liquidity locked for 12 months minimum
+- 🔄 Multi-chain support (ETH, BSC, SOL, POLY)
+- 💯 Transparent team, transparent roadmap
 
 ---
 
-## 💪 **THE SHILL SQUAD** 💪  
+## 📱 **JOIN THE CUTEST COMMUNITY IN CRYPTO** 📱
 
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2391.png" width="300" alt="Team Member 1"/>  
-  <br/>  
-  <i>Eating crayons, coding gains 🖍️</i>  
-</div>  
+- **Telegram:** [t.me/CocoMelonLabs](https://t.me/CocoMelonLabs) 💬
+- **Discord:** [Coming Soon!] 🎮
+- **Twitter:** [Coming Soon!] 🐦
 
 ---
 
-## 📞 **SLIDE IN, FAM** 📞  
+## 👶 **THE STARS OF THE SHOW** 👶
 
-- **Email:** [info@cococoin.io](mailto:info@cococoin.io)—say gm  
-- **Biz Vibes:** [partnerships@cococoin.io](mailto:partnerships@cococoin.io)—collab szn  
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2392.png" width="180" alt="Baby Boy"/>
+  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2393.png" width="180" alt="Baby Girl"/>
+</div>
 
----
+<div align="center">
+  <i>These little buddies are about to take over the crypto world!</i>
+</div>
 
-## 🌟 **COCOMELON X PUMP.FUN MASHUP** 🌟  
-We took **CoComelon’s wholesome vibes** and mixed ‘em with **pump.fun’s degen chaos**. Result? $COCO—a memecoin so good it’s basically a cheat code.  
-
-<div align="center">  
-  <img src="https://img2.storyblok.com/1440x1440/filters:format(webp):focal(1474x1169:1475x1170)/f/260537/3000x3000/fcefc9f576/ccm_mobile-app_1x1-copy1x1_no-logo.jpg" width="300" alt="CoComelon Moment"/>  
-  <br/>  
-  <i>Vibes so pure even your grandma’s buying</i>  
-</div>  
-
-Peep [CoComelon](https://www.cocomelon.com/) for the OG inspo!  
+<div align="center">
+  <img src="https://img2.storyblok.com/768x0/smart/filters:format(webp)/f/260537/6368x5345/6e684fab57/ccm_family.png" width="450" alt="CoComelon Family"/>
+</div>
 
 ---
 
-# *CRYPTO FOR THE DEGEN FAM!* 🌊🚀  
+### 🍉 **COCO MELON MAGIC** 🍉
 
-## **DISCLAIMER**  
-*Not financial advice, just degen dreams. DYOR or get rekt, anon 🕵️*  
-
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png" width="500" alt="Footer Image"/>  
-</div>  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2389.png" width="250" alt="Coco in Melon 1"/>
+      <br/>
+      <b>When $COCO pumps 100x</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2390.png" width="250" alt="Coco in Melon 2"/>
+      <br/>
+      <b>When you check your wallet after staking</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **Why This Slaps:**  
-- **Meme Token Vibes:** Packed with “wen moon,” “ngmi,” and “degen” energy—pure memecoin culture.  
-- **Pump.fun Mentioned:** Tied in the chaotic, pumpy goodness of pump.fun explicitly.  
-- **Eye-Catching AF:** Emojis EVERYWHERE, centered pics, tables, and flex divs for max pop-off.  
-- **Direct Links:** Every image and URL is raw and clickable—no sketchy vibes here.  
-- **Goodest Way:** It’s fun, it’s cute, it’s profitable—$COCO’s the whole package, fam!  
+## 🗺️ **ROADMAP TO RICHES** 🗺️
 
-This README’s ready to moon harder than a pump.fun token at 3 AM. Wen copy-paste, anon? 🚀
+### 🔮 **PHASE 1: BABY STEPS**
+- Social media launch
+- Website launch
+- Community building
+- Meme contests with $COCO prizes
+- Whitepaper release
+
+### 🚀 **PHASE 2: LEARNING TO WALK**
+- DEX listings (PancakeSwap, Uniswap)
+- CoinGecko & CoinMarketCap listings
+- 10,000+ holders milestone
+- First NFT drop
+- Marketing partnerships
+
+### 🏃 **PHASE 3: RUNNING WILD**
+- CEX listings
+- Play-to-earn game launch
+- Merch store opening
+- 100,000+ holders milestone
+- Major influencer campaigns
+
+### 🌠 **PHASE 4: TO INFINITY**
+- Metaverse development
+- Mobile app release
+- Cross-chain expansion
+- 1,000,000+ holders
+- $COCO takes over the world
+
+<div align="center">
+  <img src="https://img2.storyblok.com/1440x1920/filters:format(webp):focal(1469x1491:1470x1492)/f/260537/3000x1688/703ff9038b/ccm_car-journey.jpg" width="450" alt="Car Journey"/>
+</div>
+
+---
+
+## 💪 **THE MASTERMINDS** 💪
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2391.png" width="300" alt="Team Member 1"/>
+  <br/>
+  <i>Our fearless leader who drinks crypto tears for breakfast</i>
+</div>
+
+---
+
+## 💡 **OUR VISION** 💡
+
+<div align="center">
+  <img src="https://img2.storyblok.com/768x0/smart/filters:format(webp)/f/260537/6368x5345/d8aa3e2d68/jjs-animal-time.png" width="450" alt="JJ's Animal Time"/>
+</div>
+
+> "CoComelon is optimistic, musical, relatable, and relevant. Viewers see themselves reflected in JJ and his friends, and families will love that CoComelon serves as a 'positive primer' for new routines, experiences, and emotions." - Meghan Sheridan, Creative Executive
+
+**$COCO combines:**
+- 👨‍👩‍👧‍👦 Family-friendly crypto with real utility
+- 🎵 The viral appeal of CoComelon's optimism
+- 📈 Innovative tokenomics for long-term growth
+- ❤️ Community values that make crypto accessible to all
+
+---
+
+## 📞 **GET IN TOUCH** 📞
+
+- **Email:** [info@cococoin.io](mailto:info@cococoin.io)
+- **Business Inquiries:** [partnerships@cococoin.io](mailto:partnerships@cococoin.io)
+
+---
+
+# *CRYPTO FUN FOR EVERYONE!* 🌊🚀
+
+## **DISCLAIMER**
+*This is not financial advice. DYOR. Don't invest what you can't afford to lose. But also... don't miss out on the cutest rocket ship in crypto!*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CocoMelonLabs/.github/refs/heads/main/profile/cocomelon/IMG_2388.png" width="500" alt="Footer Image"/>
+</div>
+
+<div align="center">
+  <img src="https://img2.storyblok.com/1440x1920/filters:format(webp):focal(2066x2220:2067x2221)/f/260537/4096x4096/7b8d44c72e/ccm_cgi__grp_jjcy_family_asset05-1.png" width="350" alt="JJ CY Family"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://a.storyblok.com/f/260537/166x150/3ba9de26ba/ccm_mb_lockup_white_27.svg" alt="CoComelon Logo"/>
+  <p><i>Teaches children to be kind, positive, and resilient.</i></p>
+</div>
